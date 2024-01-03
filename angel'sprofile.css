@@ -1,0 +1,81 @@
+.ben{
+    width: 850px; 
+    height: 1200px; 
+    background-color: lightgrey;
+    margin: auto;
+    padding-top: 20px;
+
+}
+.genesis{
+    width: 790px;
+    height: 199px;
+    background-color:gray;
+    padding-left:30px ;
+    padding-right:30px ;
+    padding-top: 30px;
+    display: flex;
+    
+}
+
+.tim{
+    width: 750px;
+    height: 200px;
+    
+}
+.tom{
+    width: 200px;
+    height: 200px
+}
+img{
+  border-radius: 700px;  
+}
+.hopperbella{
+    font-size: 50px;
+}
+nana{
+    font-size:45px;
+}
+.luck{
+    width: 790px;
+    height: 900px;
+    background-color: red;
+    margin: 30px;
+    display: flex;
+}
+.birds{
+    width: 395px;
+    height: 900px;
+    background-color: white;
+}
+.insects{
+    width: 540px;
+    height: 900px;
+    background-color: gold;
+}
+.exodus{
+    width: 395px;
+    height: 230px;
+    background-color: chocolate;
+
+}
+.mark{
+    width: 395px;
+    height: 430px;
+    background-color: rgb(58, 27, 6);
+}
+.luke{
+    width: 395px;
+    height: 240px;
+    background-color: blueviolet;
+}
+.esther{
+    width: 395px;
+    height: 230px;
+    background-color: rgb(84, 248, 248);
+}
+.ruth{
+    width: 395px;
+    height: 670px;
+    background-color: orangered;
+    
+}
